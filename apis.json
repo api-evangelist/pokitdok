@@ -1,0 +1,63 @@
+{
+    "name": "PokitDok",
+    "description": "<p><span>PokitDok Platform (www.pokitdok.com) is delivering the business of health, to developers.  We have gathered the best healthcare data available, and invested heavily in cleaning it, integrating it, and putting it behind a simple API. Now your apps can benefit from our best in class provider data, cash and insurance based pricing, eligibility checks and X12 processing. Sign up today to gain access to JSON based API endpoints and EDI support, and real-time activity tracking.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pokitdok.png",
+    "tags": [
+        "claims",
+        "digital health",
+        "have api",
+        "healthcare",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pokitdok\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PokitDok",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pokitdok.png",
+            "humanURL": "https:\/\/platform.pokitdok.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pokitdok-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/platform.pokitdok.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/pokitdok.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.pokitdok.com\/feed"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/pokitdok"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/pokitdok.com\/developers\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/PokitDok"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/platform.pokitdok.com"
+        }
+    ]
+}
